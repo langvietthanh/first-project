@@ -56,7 +56,7 @@ void ds_canh(){
 }
 
 int main(){
-    //OpenFile();
+    OpenFile();
     int t;
     cin>>t;
     input();
